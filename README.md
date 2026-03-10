@@ -1,52 +1,46 @@
-<h1 align="center">Hi there, I'm Phuc Nguyen Hong 👋</h1>
+# Hi there, I'm Phuc Nguyen Hong 👋
+**Embedded Software / Firmware Engineer | Automotive Systems Enthusiast**
 
-<h3 align="center">Aspiring Embedded Software Engineer | Automotive & Systems Programming</h3>
-
-<p align="center">
-  I am a senior student majoring in Computer Engineering Technology at Ho Chi Minh City University of Technology and Education (HCMUTE). I have a strong passion for Embedded Systems, Automotive Software, and Human-Machine Interfaces (HMI).
-</p>
+[cite_start]I am a final-year Computer Engineering student at HCMUTE[cite: 8, 47]. [cite_start]I specialize in building reliable embedded systems, ranging from bare-metal firmware to high-level HMI applications on Embedded Linux[cite: 8, 36, 40].
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on a **Digital Instrument Cluster & Vehicle Control Unit (VCU)** for EVs.
-- 🌱 Deepening my knowledge in **RTOS, Qt/QML, Embedded Linux**, and **CAN bus** communication.
-- ⚙️ Experienced with low-level hardware interaction (STM32, ARM Cortex-M) and high-level UI development.
-- 🎯 My goal is to build robust, safe, and efficient software for next-generation vehicles.
-- 📫 How to reach me: [phucnguyenhong412@gmail.com](mailto:phucnguyenhong412@gmail.com)
+### 🚀 Technical Expertise
+- [cite_start]**Languages:** C/C++ (Embedded), Python [cite: 11]
+- [cite_start]**OS & Kernels:** FreeRTOS, Embedded Linux (Yocto Project) [cite: 12, 30]
+- [cite_start]**Hardware:** STM32 (F1/F4), ESP32, Raspberry Pi 4 [cite: 14, 36]
+- [cite_start]**Protocols:** CAN Bus, UART, SPI, I2C, SocketCAN [cite: 13, 33]
+- [cite_start]**Tools:** Qt/QML, CMake, Git, Logic Analyzer, GDB [cite: 15, 17, 18, 36]
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📁 Featured Projects
 
-**Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![QML](https://img.shields.io/badge/QML-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
+#### 🏎️ [Digital Instrument Cluster System](YOUR_REPO_LINK)
+[cite_start]*Real-time automotive dashboard simulation integrated with STM32 ECUs via CAN Bus.* [cite: 27, 29]
+- [cite_start]Built a custom **Embedded Linux (Yocto)** image for Raspberry Pi 4[cite: 30].
+- [cite_start]Developed a high-performance HMI using **Qt/QML** for real-time visualization[cite: 32].
+- [cite_start]Implemented **SocketCAN** multi-threaded backend in C++ for robust data exchange[cite: 33].
+- [cite_start]*Tech: C++, Yocto, SocketCAN, Qt/QML, STM32F103.* [cite: 36]
 
-**Technologies & Frameworks:**
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**Hardware & Protocols:**
-`STM32` `CAN Bus` `UART/SPI/I2C` `ISO 11898` `ISO 15765-2 (ISO-TP)`
-
----
-
-### 📂 Featured Projects
-* **[Digital Instrument Cluster & VCU](https://github.com/Phuc2246/Digital-Instrument-Cluster-Vehicle-Control-Unit-VCU-)**: Developing a smart dashboard for electric vehicles using Qt/QML and simulating ECU communication via CAN bus.
-* **[Embedded Driver - Dino Game](https://github.com/Phuc2246/Embedded-Driver-Dino-game-project-with-STM32F407-DISC-and-OLED)**: Built the classic Chrome Dino game on an STM32F407 discovery board using custom embedded drivers and an OLED display.
+#### 🎮 [Bare-metal Dino Game Controller](YOUR_REPO_LINK)
+[cite_start]*Low-level driver implementation and serial communication on STM32F407.* [cite: 37, 38]
+- [cite_start]Architected drivers using **Direct Register Access (Bare-metal C)** for GPIO, USART, and Timers[cite: 40].
+- [cite_start]Implemented **ISR (Interrupt Service Routines)** and software debouncing for precise input[cite: 41].
+- [cite_start]Created a bidirectional UART protocol to interface with a Python-based engine[cite: 42].
+- [cite_start]*Tech: Embedded C, STM32F4, Python, Interrupts, PWM.* [cite: 45]
 
 ---
 
-### 🐍 GitHub Contributions
+### 📊 GitHub Statistics
+#### My Contributions as a Snake Game 🐍
+![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phuc2246/Phuc2246/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phuc2246/Phuc2246/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Phuc2246/Phuc2246/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+[![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phuc2246&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✉️ Connect with me
+- [cite_start]**LinkedIn:** [Phúc Nguyễn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) [cite: 25]
+- [cite_start]**Email:** [phucnguyenhong412@gmail.com](mailto:phucnguyenhong412@gmail.com) [cite: 6]
+- [cite_start]**Location:** Thu Duc, Ho Chi Minh City, Vietnam [cite: 6]
