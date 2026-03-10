@@ -29,9 +29,9 @@ Tôi là một Kỹ sư phần mềm nhúng với niềm đam mê phát triển 
 
 ---
 
+
 ### 📊 Thống kê GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Phuc2246&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc2246&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuc2246&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc2246&layout=compact&theme=radical&hide_border=true)
