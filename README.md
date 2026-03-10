@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/phuc-nguyen-hong">
+  <a href="https://www.linkedin.com/in/phúc-nguyễn-4a5118351">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:phucnguyenhong412@gmail.com">
@@ -18,10 +18,10 @@
 ---
 
 ### 🚀 Quick Overview
-- [cite_start]🔭 **Currently:** Developing a **Digital Instrument Cluster & VCU** using **Yocto Project** and **Qt/QML**. [cite: 27, 30, 32]
-- [cite_start]🌱 **Deepening Knowledge:** Advanced **Embedded Linux**, **SocketCAN**, and **FreeRTOS** scheduling. [cite: 12, 13, 33]
-- [cite_start]⚙️ **Expertise:** Bridging the gap between low-level hardware (STM32 Bare-metal) and high-level UI (Qt/QML). [cite: 18, 34, 40]
-- [cite_start]🎯 **Goal:** Engineering robust, safety-critical software for the future of Automotive technology. [cite: 8, 9]
+- 🔭 **Currently:** Developing a **Digital Instrument Cluster & VCU** using **Yocto Project** and **Qt/QML**.
+- 🌱 **Deepening Knowledge:** Advanced **Embedded Linux**, **SocketCAN**, and **FreeRTOS** scheduling.
+- ⚙️ **Expertise:** Bridging the gap between low-level hardware (STM32 Bare-metal) and high-level UI (Qt/QML).
+- 🎯 **Goal:** Engineering robust, safety-critical software for the future of Automotive technology.
 
 ---
 
@@ -48,14 +48,14 @@
 ### 📂 Featured Projects
 
 * **🏎️ [Digital Instrument Cluster & VCU](https://github.com/Phuc2246/Digital-Instrument-Cluster-Vehicle-Control-Unit-VCU-)**
-    * [cite_start]Engineered a custom **Yocto-based Linux** distribution for Raspberry Pi 4. [cite: 30]
-    * [cite_start]Developed a multi-threaded **C++/SocketCAN** backend for high-frequency data exchange. [cite: 33]
-    * [cite_start]Designed a high-performance **Qt/QML HMI** for real-time vehicle parameter visualization. [cite: 32]
+    * Engineered a custom **Yocto-based Linux** distribution for Raspberry Pi 4.
+    * Developed a multi-threaded **C++/SocketCAN** backend for high-frequency data exchange.
+    * Designed a high-performance **Qt/QML HMI** for real-time vehicle parameter visualization.
 
 * **🎮 [Bare-metal Dino Game Controller](https://github.com/Phuc2246/Embedded-Driver-Dino-game-project-with-STM32F407-DISC-and-OLED)**
-    * [cite_start]Architected low-level drivers using **Direct Register Access (C)** for GPIO, USART, and Timers. [cite: 40]
-    * [cite_start]Implemented **ISR** with software debouncing for precise mechanical button handling. [cite: 41]
-    * [cite_start]Established bidirectional communication with a Python engine for real-time control. [cite: 42]
+    * Architected low-level drivers using **Direct Register Access (C)** for GPIO, USART, and Timers.
+    * Implemented **ISR** with software debouncing for precise mechanical button handling.
+    * Established bidirectional communication with a Python engine for real-time control.
 
 ---
 
